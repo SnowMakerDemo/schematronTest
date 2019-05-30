@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema targetNamespace="http://release.niem.org/niem/sample/1.0/NegativeSample-4-1-1/" version="1.0"
+           blockDefault="" elementFormDefault="qualified"
+           finalDefault=""
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:annotation>
+    <xs:documentation xml:lang="EN">The negative sample for the rule 4-1 in chapter 4.</xs:documentation>
+</xs:annotation>
+</xs:schema>
